@@ -1,1 +1,10 @@
-/* Add CSS Styling */
+.click-me {
+    font-size: 28px;
+    font-family: helvetica, times new roman, sans-serif;
+    background-color: black;
+    color: white;
+}
+.adjust-background {
+    background-color: yellow;
+    color: black;
+}
